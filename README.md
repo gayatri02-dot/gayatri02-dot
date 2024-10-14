@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @gayatri02-dot
-- 👀 I’m interested in java python C...
-- 🌱 I’m currently learning in SGGS, Nanded...
-- 💞️ I’m looking to collaborate on Boot camp...
-- 📫 How to reach me on my eamil 2020bpr046@sggs.ac.in...
-
-<!---
-gayatri02-dot/gayatri02-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Gayatri Tayade
+- 👀 I’m interested in java python Web Development
+- 🌱 I’m B-Tech Graduated and my passout year is 2024
+- 💞️ I’m searching a job in web development feild
+- 📫 How to reach me on my eamil gayatritayade2002@gmail.com
